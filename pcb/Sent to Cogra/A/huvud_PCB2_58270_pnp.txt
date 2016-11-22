@@ -1,0 +1,74 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=huvud_PCB2_58270
+*Date=11:00:31
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;10.1319;-6.90934;0;Bottom;Hole37
+2;;;33.9326;-8.17934;0;Bottom;Hole23
+3;;;12.0369;-6.90934;0;Bottom;Hole43
+4;;THT;2.068;-38.4276;0;Bottom;J26
+5;;;23.4669;-9.44934;0;Bottom;Hole18
+6;;;30.1226;-8.17934;0;Bottom;Hole34
+7;;;19.6569;-6.90934;0;Bottom;Hole47
+8;;;12.0369;-9.44934;0;Bottom;Hole6
+9;;;32.9919;-6.90934;0;Bottom;Hole38
+10;;;18.6926;-8.17934;0;Bottom;Hole27
+11;;;14.8826;-8.17934;0;Bottom;Hole25
+12;;;15.8469;-6.90934;0;Bottom;Hole49
+13;;;34.8969;-6.90934;0;Bottom;Hole51
+14;;;12.9776;-8.17934;0;Bottom;Hole22
+15;;;11.0726;-8.17934;0;Bottom;Hole29
+16;;;15.8469;-9.44934;0;Bottom;Hole11
+17;;;25.3719;-6.90934;0;Bottom;Hole42
+18;;;19.6569;-9.44934;0;Bottom;Hole10
+19;;THT;42.6868;-6.07089;0;Bottom;J31
+20;;;31.0869;-6.90934;0;Bottom;Hole39
+21;;;16.7876;-8.17934;0;Bottom;Hole32
+22;;;35.8376;-8.17934;0;Bottom;Hole33
+23;;;22.5026;-8.17934;0;Bottom;Hole26
+24;;;29.1819;-6.90934;0;Bottom;Hole40
+25;;;28.2177;-8.17934;0;Bottom;Hole20
+26;;;34.8969;-9.44934;0;Bottom;Hole17
+27;;;29.1819;-9.44934;0;Bottom;Hole14
+28;;;32.9919;-9.44934;0;Bottom;Hole16
+29;;;31.0869;-9.44934;0;Bottom;Hole12
+30;;;13.9419;-6.90934;0;Bottom;Hole36
+31;;5 mm [THT];13.7172;-31.5246;-90;Bottom;LED1
+32;;THT;42.445;-38.4959;0;Bottom;J30
+33;;;36.8019;-6.90934;0;Bottom;Hole46
+34;;;27.2769;-9.44934;0;Bottom;Hole19
+35;;;22.5006;-22.4602;180;Top;IMG2
+36;;;8.22692;-6.90934;0;Bottom;Hole50
+37;;;13.9419;-9.44934;0;Bottom;Hole7
+38;;;9.16765;-8.17934;0;Bottom;Hole35
+39;;THT;39.5742;-42.9333;0;Bottom;J28
+40;;;36.8019;-9.44934;0;Bottom;Hole15
+41;;;21.5619;-9.44934;0;Bottom;Hole8
+42;;THT;5.62711;-2.02523;0;Bottom;J27
+43;;THT;5.57546;-42.8173;0;Bottom;J29
+44;;THT;2.30958;-6.00259;0;Bottom;J32
+45;;;21.5619;-6.90934;0;Bottom;Hole44
+46;;THT;39.6259;-2.14123;0;Bottom;J25
+47;;;24.4077;-8.17934;0;Bottom;Hole21
+48;;;32.0276;-8.17934;0;Bottom;Hole31
+49;;;23.4669;-6.90934;0;Bottom;Hole45
+50;;;8.22692;-9.44934;0;Bottom;Hole4
+51;;;17.7519;-9.44934;0;Bottom;Hole9
+52;;5 mm [THT];32.1384;-31.6103;-90;Bottom;LED2
+53;;;10.1319;-9.44934;0;Bottom;Hole5
+54;;;22.5214;-22.4716;180;Bottom;IMG1
+55;;;17.7519;-6.90934;0;Bottom;Hole41
+56;;;27.2769;-6.90934;0;Bottom;Hole48
+57;;;25.3719;-9.44934;0;Bottom;Hole13
+58;;;20.5976;-8.17934;0;Bottom;Hole28
+59;;;26.3127;-8.17934;0;Bottom;Hole30

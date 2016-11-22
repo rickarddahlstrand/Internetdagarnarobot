@@ -1,0 +1,26 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=huvud_PCB2_58370
+*Date=10:56:00
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;2.39003;-38.5865;0;Bottom;J5
+2;;THT;39.948;-2.30005;0;Bottom;J8
+3;;THT;5.94907;-2.18406;0;Bottom;J7
+4;;;22.3481;-22.6021;0;Bottom;Hole1
+5;;THT;5.89752;-42.9762;0;Bottom;J6
+6;;THT;2.63167;-6.16141;0;Bottom;J4
+7;;THT;39.8964;-43.0921;0;Bottom;J3
+8;;THT;43.0088;-6.2295;0;Bottom;J1
+9;;;22.2664;-34.6036;0;Bottom;Hole2
+10;;;22.2664;-10.6147;0;Bottom;Hole3
+11;;THT;42.7672;-38.6546;0;Bottom;J2

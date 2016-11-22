@@ -1,0 +1,23 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=kropp_PCB1_18715280
+*Date=11:53:20
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;50.0738;-93.4382;0;Bottom;J81
+2;;THT;55.5179;-90.4644;0;Bottom;J79
+3;;THT;16.0745;-93.3224;0;Bottom;J83
+4;;THT;10.653;-90.4898;0;Bottom;J82
+5;;;33.0406;-47.8001;-0.4;Top;IMG3
+6;;THT;64.9949;-2.19909;0;Bottom;J80
+7;;;32.9547;-47.8024;-0.3;Bottom;IMG3
+8;;THT;1.68966;-2.22449;0;Bottom;J84
